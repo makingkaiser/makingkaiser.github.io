@@ -22,3 +22,8 @@ SELF-DISCOVER and implementation\
 
 [**https://arxiv.org/pdf/2402.17764**](https://arxiv.org/pdf/2402.17764)
 
+
+
+**Towards Understanding Grokking: An Effective Theory of Representation Learning**
+
+[**https://proceedings.neurips.cc/paper\_files/paper/2022/file/dfc310e81992d2e4cedc09ac47eff13e-Paper-Conference.pdf**](https://proceedings.neurips.cc/paper\_files/paper/2022/file/dfc310e81992d2e4cedc09ac47eff13e-Paper-Conference.pdf)
