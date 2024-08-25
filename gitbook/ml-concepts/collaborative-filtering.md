@@ -1,6 +1,6 @@
 # 🤝 Collaborative Filtering
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption><p>Image from Nvidia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="375"><figcaption><p>Image from Nvidia</p></figcaption></figure>
 
 Collaborative filtering is a technique used to predict ‘missing data’, such as in recommendation systems. If you already have an existing database of user preferences, based on what people have liked (Products, videos, movies), we can recommend an individual other stuff based on what he or she has liked/purchased in the past.&#x20;
 

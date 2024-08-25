@@ -23,7 +23,7 @@ To first understand Random Forests, we look at one component of the forest, a de
 
 ## Decision Trees&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 A decision tree is a way of splitting our data with binary outcomes. In order to determine a certain outcome(which can be discrete OR continuous), the model keeps splitting the data set into smaller and smaller groups. For continuous variables like age, a threshold value is used to split the data, while for categorical variables the 'split' checks if it is equal to the category or not.  Then, each final group can be assigned a prediction score.&#x20;
 
@@ -93,7 +93,7 @@ The splits for the lowest score(highest purity) for males is `Age<=6`, and for f
 
 We take this idea, and split our tree even further:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Another way of determining purity is through the 'Gini' score, which can be thought of as the probability that 2 random selections from the same basket give the same result every time.
 
@@ -123,7 +123,7 @@ To answer the first question, we can take the aggregated standard deviation of a
 
 We can also see which features contribute the most to influencing the final decision to the greatest extent, i.e. _feature importance._ Let's take a look at some data with the goal of predicting the sale price of tractors.&#x20;
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Feature importance plot for factors affecting sale price of tractors</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Feature importance plot for factors affecting sale price of tractors</p></figcaption></figure>
 
 The feature importance is calculated as follows: It loops through each tree and recursively explores each branch. At each branch, it takes note of the feature used to split, and how much the model improves as a result of using that feature. The improvement(weighted again by the number of observations) is added to the importance score for that attribute, and finally the scores are normalized so that the sum adds up to 1.&#x20;
 

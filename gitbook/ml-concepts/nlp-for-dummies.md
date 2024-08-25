@@ -26,7 +26,7 @@ Lets look at our data from the Kaggle competition:
 df = pd.read_csv(path/'train.csv')
 ```
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Here, _anchor_ and _target_ refer to the phrases we are comparing, the _score_ is the % similarity of the phrase, and _context_ is the id for the patent class they were used in.
 
@@ -124,7 +124,7 @@ Now that we have our tokens and labels, let’s move onto splitting our dataset.
 
 To illustrate, let’s say we want to fit a model where the true relationship is a quadratic.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 In real life, however, we can only take fixed samples, which can contain some noise and inaccuracy.
 
