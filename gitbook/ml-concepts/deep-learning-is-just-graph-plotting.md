@@ -1,4 +1,4 @@
-# L3 notes + Ch4 Deep learning is just graph plotting
+# 📿 Deep learning is just graph plotting
 
 The goal of a neural network is to learn the underlying function(or sets of patterns) that captures our data. We want to fit our function, such that it most accurately captures our data.
 
