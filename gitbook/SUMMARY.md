@@ -8,7 +8,7 @@
 * [🌳 Random Forests (or how to make a few million dollars)](ml-concepts/random-forests-or-how-to-make-a-few-million-dollars.md)
 * [🐥 NLP for Dummies](ml-concepts/nlp-for-dummies.md)
 * [🤝 Collaborative Filtering](ml-concepts/collaborative-filtering.md)
-* [L3 notes + Ch4 Deep learning is just graph plotting](ml-concepts/l3-notes-+-ch4-deep-learning-is-just-graph-plotting.md)
+* [Deep learning is just graph plotting](ml-concepts/deep-learning-is-just-graph-plotting.md)
 
 ## LLMs
 
