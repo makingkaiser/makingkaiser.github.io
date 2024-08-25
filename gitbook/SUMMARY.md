@@ -13,7 +13,7 @@
 ## LLMs
 
 * [LLMs are simpler than you think!](llms/llms-are-simpler-than-you-think.md)
-* [RAG and chunking strategies](llms/rag-and-chunking-strategies.md)
+* [📑 RAG and chunking strategies](llms/rag-and-chunking-strategies.md)
 
 ***
 

@@ -1,4 +1,4 @@
-# RAG and chunking strategies
+# 📑 RAG and chunking strategies
 
 RAG (Retrieval Augmented Generation) originally was conceptualized as a paradigm that tried to mitigate the tendency of LLMs to hallucinate (making up false but plausible-sounding information). However, it has evolved into a standard that many people and companies have adopted for extending the capabilities with their own, customized, domain specific information. The basic idea is to augment the model with the relevant information required to answer the query at hand.
 
